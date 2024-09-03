@@ -1,0 +1,161 @@
+entidad_federativa;matricula;total;hombres;mujeres;porcentaje_hombres;porcentaje_mujeres
+Estados Unidos Mexicanos_1;Preescolar;4243279;2133580;2109699;50;50
+Estados Unidos Mexicanos_2;Primaria;13154354;6680355;6473999;51;49
+Estados Unidos Mexicanos_3;Secundaria;6284377;3166930;3117447;50;50
+Estados Unidos Mexicanos_4;Media superior;5103342;2470633;2632709;48;52
+Estados Unidos Mexicanos_5;Superior;4051691;1903882;2147809;47;53
+Aguascalientes_1;Preescolar;51923;25997;25926;50;50
+Aguascalientes_2;Primaria;160882;81745;79137;51;49
+Aguascalientes_3;Secundaria;74759;37586;37173;50;50
+Aguascalientes_4;Media superior;58034;27551;30483;48;53
+Aguascalientes_5;Superior;55521;25184;30337;45;55
+Baja California_1;Preescolar;95661;47420;48241;50;50
+Baja California_2;Primaria;379660;192503;187157;51;49
+Baja California_3;Secundaria;185622;93787;91835;51;50
+Baja California_4;Media superior;152086;73906;78180;49;51
+Baja California_5;Superior;127286;59917;67369;47;53
+Baja California Sur_1;Preescolar;25752;12734;13018;49;51
+Baja California Sur_2;Primaria;82454;41765;40689;51;49
+Baja California Sur_3;Secundaria;41875;21148;20727;51;50
+Baja California Sur_4;Media superior;36012;17587;18425;49;51
+Baja California Sur_5;Superior;23001;10532;12469;46;54
+Campeche_1;Preescolar;32248;16295;15953;51;50
+Campeche_2;Primaria;96693;49129;47564;51;49
+Campeche_3;Secundaria;45439;23140;22299;51;49
+Campeche_4;Media superior;36762;18576;18186;51;50
+Campeche_5;Superior;31135;14750;16385;47;53
+Coahuila de Zaragoza_1;Preescolar;128475;64844;63631;51;50
+Coahuila de Zaragoza_2;Primaria;335176;170042;165134;51;49
+Coahuila de Zaragoza_3;Secundaria;155256;78258;76998;50;50
+Coahuila de Zaragoza_4;Media superior;120176;58822;61354;49;51
+Coahuila de Zaragoza_5;Superior;112755;54730;58025;49;52
+Colima_1;Preescolar;22255;11348;10907;51;49
+Colima_2;Primaria;69951;35456;34495;51;49
+Colima_3;Secundaria;34619;17497;17122;51;50
+Colima_4;Media superior;30508;14443;16065;47;53
+Colima_5;Superior;21952;9981;11971;46;55
+Chiapas_1;Preescolar;294536;147564;146972;50;50
+Chiapas_2;Primaria;793691;402534;391157;51;49
+Chiapas_3;Secundaria;298813;153040;145773;51;49
+Chiapas_4;Media superior;206227;102603;103624;50;50
+Chiapas_5;Superior;83894;40826;43068;49;51
+Chihuahua_1;Preescolar;111143;55778;55365;50;50
+Chihuahua_2;Primaria;403346;204985;198361;51;49
+Chihuahua_3;Secundaria;185093;92914;92179;50;50
+Chihuahua_4;Media superior;147721;70152;77569;48;53
+Chihuahua_5;Superior;129696;59976;69720;46;54
+Ciudad de Mexico_1;Preescolar;208002;104090;103912;50;50
+Ciudad de Mexico_2;Primaria;722084;366188;355896;51;49
+Ciudad de Mexico_3;Secundaria;404808;204508;200300;51;50
+Ciudad de Mexico_4;Media superior;449729;224531;225198;50;50
+Ciudad de Mexico_5;Superior;559817;274248;285569;49;51
+Durango_1;Preescolar;64409;32552;31857;51;50
+Durango_2;Primaria;213029;108537;104492;51;49
+Durango_3;Secundaria;98642;49569;49073;50;50
+Durango_4;Media superior;78930;37388;41542;47;53
+Durango_5;Superior;52066;24437;27629;47;53
+Guanajuato_1;Preescolar;226971;114475;112496;50;50
+Guanajuato_2;Primaria;679098;345751;333347;51;49
+Guanajuato_3;Secundaria;314019;158283;155736;50;50
+Guanajuato_4;Media superior;240168;113384;126784;47;53
+Guanajuato_5;Superior;161984;75600;86384;47;53
+Guerrero_1;Preescolar;162856;82454;80402;51;49
+Guerrero_2;Primaria;408727;207486;201241;51;49
+Guerrero_3;Secundaria;185627;93678;91949;51;50
+Guerrero_4;Media superior;138170;66049;72121;48;52
+Guerrero_5;Superior;73157;32583;40574;45;56
+Hidalgo_1;Preescolar;97242;49204;48038;51;49
+Hidalgo_2;Primaria;324357;164273;160084;51;49
+Hidalgo_3;Secundaria;170660;85811;84849;50;50
+Hidalgo_4;Media superior;142093;68390;73703;48;52
+Hidalgo_5;Superior;108243;49458;58785;46;54
+Jalisco_1;Preescolar;278636;139955;138681;50;50
+Jalisco_2;Primaria;896167;456122;440045;51;49
+Jalisco_3;Secundaria;417356;209395;207961;50;50
+Jalisco_4;Media superior;334184;161159;173025;48;52
+Jalisco_5;Superior;259469;118479;140990;46;54
+Michoacan de Ocampo_1;Preescolar;183851;92152;91699;50;50
+Michoacan de Ocampo_2;Primaria;533580;270670;262910;51;49
+Michoacan de Ocampo_3;Secundaria;230080;113710;116370;49;51
+Michoacan de Ocampo_4;Media superior;170647;78349;92298;46;54
+Michoacan de Ocampo_5;Superior;114151;51905;62246;46;55
+Morelos_1;Preescolar;56844;28402;28442;50;50
+Morelos_2;Primaria;190972;97072;93900;51;49
+Morelos_3;Secundaria;93858;46875;46983;50;50
+Morelos_4;Media superior;77573;36981;40592;48;52
+Morelos_5;Superior;61962;28340;33622;46;54
+Nayarit_1;Preescolar;44547;22526;22021;51;49
+Nayarit_2;Primaria;131995;67392;64603;51;49
+Nayarit_3;Secundaria;64662;32556;32106;50;50
+Nayarit_4;Media superior;56204;26765;29439;48;52
+Nayarit_5;Superior;33481;15293;18188;46;54
+Nuevo Leon_1;Preescolar;195698;99613;96085;51;49
+Nuevo Leon_2;Primaria;581838;296219;285619;51;49
+Nuevo Leon_3;Secundaria;279964;141836;138128;51;49
+Nuevo Leon_4;Media superior;200484;100684;99800;50;50
+Nuevo Leon_5;Superior;234748;113826;120922;49;52
+Oaxaca_1;Preescolar;182002;91286;90716;50;50
+Oaxaca_2;Primaria;475210;240595;234615;51;49
+Oaxaca_3;Secundaria;218873;110000;108873;50;50
+Oaxaca_4;Media superior;147671;70361;77310;48;52
+Oaxaca_5;Superior;75116;33666;41450;45;55
+Puebla_1;Preescolar;264917;132879;132038;50;50
+Puebla_2;Primaria;745632;377516;368116;51;49
+Puebla_3;Secundaria;346095;172961;173134;50;50
+Puebla_4;Media superior;281412;133656;147756;48;53
+Puebla_5;Superior;266206;120719;145487;45;55
+Queretaro_1;Preescolar;79650;40194;39456;51;50
+Queretaro_2;Primaria;252328;128135;124193;51;49
+Queretaro_3;Secundaria;122365;61171;61194;50;50
+Queretaro_4;Media superior;95184;44765;50419;47;53
+Queretaro_5;Superior;83398;38387;45011;46;54
+Quintana Roo_1;Preescolar;53705;27162;26543;51;49
+Quintana Roo_2;Primaria;189237;96124;93113;51;49
+Quintana Roo_3;Secundaria;92234;46696;45538;51;49
+Quintana Roo_4;Media superior;73372;36137;37235;49;51
+Quintana Roo_5;Superior;39464;19099;20365;48;52
+San Luis Potosi_1;Preescolar;111336;56464;54872;51;49
+San Luis Potosi_2;Primaria;292270;148400;143870;51;49
+San Luis Potosi_3;Secundaria;142927;72122;70805;51;50
+San Luis Potosi_4;Media superior;101107;49063;52044;49;52
+San Luis Potosi_5;Superior;78564;36312;42252;46;54
+Sinaloa_1;Preescolar;108442;55079;53363;51;49
+Sinaloa_2;Primaria;303191;154921;148270;51;49
+Sinaloa_3;Secundaria;152219;77048;75171;51;49
+Sinaloa_4;Media superior;141619;68908;72711;49;51
+Sinaloa_5;Superior;130407;60519;69888;46;54
+Sonora_1;Preescolar;84984;42735;42249;50;50
+Sonora_2;Primaria;288929;147265;141664;51;49
+Sonora_3;Secundaria;144188;72954;71234;51;49
+Sonora_4;Media superior;123022;60310;62712;49;51
+Sonora_5;Superior;114080;53537;60543;47;53
+Tabasco_1;Preescolar;102686;51579;51107;50;50
+Tabasco_2;Primaria;270241;137295;132946;51;49
+Tabasco_3;Secundaria;135967;69798;66169;51;49
+Tabasco_4;Media superior;117029;58831;58198;50;50
+Tabasco_5;Superior;70585;35406;35179;50;50
+Tamaulipas_1;Preescolar;100930;50813;50117;50;50
+Tamaulipas_2;Primaria;353648;179582;174066;51;49
+Tamaulipas_3;Secundaria;169786;85293;84493;50;50
+Tamaulipas_4;Media superior;141720;69377;72343;49;51
+Tamaulipas_5;Superior;135398;62556;72842;46;54
+Tlaxcala_1;Preescolar;48054;24071;23983;50;50
+Tlaxcala_2;Primaria;147740;74778;72962;51;49
+Tlaxcala_3;Secundaria;73763;37358;36405;51;49
+Tlaxcala_4;Media superior;60547;29772;30775;49;51
+Tlaxcala_5;Superior;39836;18072;21764;45;55
+Veracruz de Ignacio de la Llave_1;Preescolar;214518;107675;106843;50;50
+Veracruz de Ignacio de la Llave_2;Primaria;761275;387652;373623;51;49
+Veracruz de Ignacio de la Llave_3;Secundaria;370457;187379;183078;51;49
+Veracruz de Ignacio de la Llave_4;Media superior;309309;149917;159392;49;52
+Veracruz de Ignacio de la Llave_5;Superior;185176;90699;94477;49;51
+Yucatan_1;Preescolar;77977;39585;38392;51;49
+Yucatan_2;Primaria;218826;111396;107430;51;49
+Yucatan_3;Secundaria;104189;52803;51386;51;49
+Yucatan_4;Media superior;95321;46843;48478;49;51
+Yucatan_5;Superior;79554;38013;41541;48;52
+Zacatecas_1;Preescolar;68198;34210;33988;50;50
+Zacatecas_2;Primaria;190204;96367;93837;51;49
+Zacatecas_3;Secundaria;89195;44423;44772;50;50
+Zacatecas_4;Media superior;64332;29916;34416;47;54
+Zacatecas_5;Superior;47516;21373;26143;45;55
